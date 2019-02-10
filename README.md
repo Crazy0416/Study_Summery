@@ -5,6 +5,7 @@
 - [운영체제](https://github.com/Crazy0416/Study_Summery/tree/master/OS)
 - [네트워크](https://github.com/Crazy0416/Study_Summery/tree/master/Network)
 - [소프트웨어 아키텍처](https://github.com/Crazy0416/Study_Summery/tree/master/SWArchitecture)
+- [개념](https://github.com/Crazy0416/Study_Summery/tree/master/Concept)
 - 알고리즘 및 자료구조
 - C++
 - Javascript 및 Node.js
